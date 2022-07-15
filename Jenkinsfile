@@ -1,2 +1,2 @@
 @Library('my-shared-library') _
-uberApp 'https://github.com/yvanebo30/uberApp.git'
+uberApp 'https://github.com/yvanebo30/lyftApp.git'
